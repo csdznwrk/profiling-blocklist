@@ -1,0 +1,284 @@
+# ============================================================
+# BEHAVIORAL PROFILING & IDENTITY GRAPH BLOCKLIST
+# Focus: ad exchanges, DSPs, data brokers, identity stitching,
+#        social tracking pixels, retargeting, cross-app profiling
+# ============================================================
+
+# --- Social tracking pixels (fire outside their own apps) ---
+# Meta/Facebook
+connect.facebook.net
+pixel.facebook.com
+an.facebook.com
+graph.facebook.com
+staticxx.facebook.com
+www.facebook.com
+# Instagram
+i.instagram.com
+# TikTok
+analytics.tiktok.com
+ads-api.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+mon.snssdk.com
+analytics-sg.tiktok.com
+# Snap
+tr.snapchat.com
+sc-static.net
+statics.teams.cdn.office.net
+# Twitter/X
+static.ads-twitter.com
+ads-api.twitter.com
+t.co
+# LinkedIn
+ads.linkedin.com
+snap.licdn.com
+px.ads.linkedin.com
+# Pinterest
+ct.pinterest.com
+trk.pinterest.com
+log.pinterest.com
+# Reddit
+events.reddit.com
+alb.reddit.com
+# Quora
+qsearch.quora.com
+# YouTube ads pixel
+ad.youtube.com
+
+# --- The Trade Desk ---
+match.adsrvr.org
+js.adsrvr.org
+pixel.rubiconproject.com
+sync.adsrvr.org
+adsrvr.org
+
+# --- Criteo (retargeting + identity) ---
+static.criteo.net
+rtax.criteo.com
+bidder.criteo.com
+gum.criteo.com
+sslwidget.criteo.com
+storefront.criteo.com
+criteo.com
+dnsdelegation.io
+storetail.io
+
+# --- LiveRamp (identity graph) ---
+idsync.rlcdn.com
+pixel.rlcdn.com
+ats.rlcdn.com
+rlcdn.com
+liveramp.com
+liveramp.net
+
+# --- Tapad (cross-device identity) ---
+tapad.com
+tapd.io
+
+# --- Oracle Data Cloud / BlueKai ---
+bluekai.com
+bkrtx.com
+oracle.com
+oracledata.com
+addthis.com
+addthisedge.com
+
+# --- Acxiom (data broker) ---
+acxiom.com
+acxiomapac.com
+infobase.com
+
+# --- Experian Marketing ---
+cheetahmail.com
+experian.com
+experianmarketingservices.com
+
+# --- Neustar (identity resolution) ---
+neustar.biz
+neustarinfo.com
+
+# --- Nielsen (audience measurement) ---
+imrworldwide.com
+nielsen.com
+scorecardresearch.com
+sb.scorecardresearch.com
+
+# --- Comscore ---
+voicefive.com
+comscore.com
+2o7.net
+c.msn.com
+
+# --- Adobe Experience Cloud / Omniture ---
+omtrdc.net
+sc.omtrdc.net
+adobedc.net
+sc.adobedc.net
+data.adobedc.net
+demdex.net
+everesttech.net
+at.js
+adobedtm.com
+
+# --- Salesforce / Krux DMP ---
+krxd.net
+exacttarget.com
+pardot.com
+go.pardot.com
+salesforce.com
+
+# --- Lotame (DMP) ---
+lotame.com
+crwdcntrl.net
+
+# --- MediaMath ---
+mathtag.com
+pixel.mathtag.com
+
+# --- Index Exchange ---
+casalemedia.com
+indexww.com
+
+# --- PubMatic ---
+pubmatic.com
+ads.pubmatic.com
+image6.pubmatic.com
+
+# --- Rubicon / Magnite ---
+rubiconproject.com
+fastlane.rubiconproject.com
+eus.rubiconproject.com
+
+# --- AppNexus / Xandr / Microsoft ---
+adnxs.com
+adnxs-simple.com
+ib.adnxs.com
+xandr.com
+
+# --- OpenX ---
+openx.net
+servedbyopenx.com
+
+# --- Conversant / Epsilon ---
+conversantmedia.com
+dotomi.com
+epsilon.com
+emjcd.com
+
+# --- Verizon Media / Yahoo / Oath ---
+oath.com
+advertising.com
+pixel.advertising.com
+adtech.de
+
+# --- Amazon Advertising ---
+amazon-adsystem.com
+aax.amazon-adsystem.com
+fls-na.amazon.com
+mads.amazon.com
+
+# --- Google Ad stack (behavioral layer) ---
+doubleclick.net
+ad.doubleclick.net
+googleadservices.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+adservice.google.com
+cm.g.doubleclick.net
+
+# --- Taboola (content recommendation + tracking) ---
+taboola.com
+trc.taboola.com
+cdn.taboola.com
+pixel.taboola.com
+
+# --- Outbrain ---
+outbrain.com
+amplifywidget.com
+widgets.outbrain.com
+
+# --- ShareThis ---
+sharethis.com
+share.dmxleo.com
+
+# --- AddThis ---
+addthis.com
+cache.addthiscdn.com
+
+# --- Quantcast (audience measurement) ---
+quantserve.com
+quantcount.com
+cm.quantserve.com
+
+# --- Bombora (B2B intent data) ---
+bombora.com
+ml314.com
+
+# --- Dstillery ---
+dstillery.com
+
+# --- DoubleVerify (brand safety + fingerprinting) ---
+doubleverify.com
+cdn.doubleverify.com
+pub.doubleverify.com
+
+# --- Integral Ad Science (IAS) ---
+iasds01.com
+pixel.adsafeprotected.com
+bkrtx.com
+
+# --- MOAT (Oracle attention measurement) ---
+moatads.com
+moat.com
+
+# --- ID5 (identity consortium) ---
+id5-sync.com
+
+# --- Unified ID / UID2 ---
+global.adsrvr.org
+
+# --- Zeotap (CDP + identity) ---
+zeotap.com
+
+# --- Lotame Spherical ---
+sphereup.com
+
+# --- Demandbase (ABM + identity) ---
+demandbase.com
+bizo.com
+
+# --- SpotX / Magnite CTV ---
+spotx.tv
+spotxchange.com
+
+# --- TripleLift ---
+triplelift.com
+tlvmedia.com
+
+# --- Sovrn ---
+sovrn.com
+lijit.com
+
+# --- CNAME cloaking trackers (disguise as first-party) ---
+eulerian.net
+at-o.net
+tagcommander.com
+wizaly.com
+affex.org
+webtrekk.net
+wt-eu02.net
+oghub.io
+actonservice.com
+actonsoftware.com
+thirdparty.bnc.lt
+
+# --- Location data harvesters ---
+safegraph.com
+veraset.com
+foursquare.com
+skyhookwireless.com
+placed.com
+near.co
+factual.com
+cuebiq.com
