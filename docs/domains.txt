@@ -1,6 +1,6 @@
 # Behavioral Profiling & Identity Graph Blocklist
-# Updated: 2026-06-28 19:08 UTC
-# Domains: 356
+# Updated: 2026-06-29 01:23 UTC
+# Domains: 403
 
 2o7.net
 aax.amazon-adsystem.com
@@ -10,7 +10,9 @@ acuityads.com
 acxiom.com
 acxiomapac.com
 ad.doubleclick.net
+ad.yieldmo.com
 ad.youtube.com
+adap.tv
 addthis.com
 addthisedge.com
 adform.com
@@ -20,11 +22,15 @@ adnxs-simple.com
 adnxs.com
 adobedc.net
 adobedtm.com
+adroll.com
 ads-api.tiktok.com
 ads-api.twitter.com
+ads.kargo.com
 ads.linkedin.com
 ads.pubmatic.com
+ads.smartly.io
 ads.tiktok.com
+ads.yahoo.com
 adsafeprotected.com
 adserve.ams.rhythmxchange.com
 adserve.gkeurope.de
@@ -109,20 +115,27 @@ at-o.net
 at.js
 ats.rlcdn.com
 aud.pubmatic.com
+basistech.com
+beap.gemini.yahoo.com
 bid.pubmatic.com
 bidder.criteo.com
+biddr.co
+bidswitch.com
 bidswitch.net
 bizo.com
 bkrtx.com
 bluekai.com
 bombora.com
+bs.serving-sys.com
 business-api.tiktok.com
 c.msn.com
 cache.addthiscdn.com
 casalemedia.com
 cdn.doubleverify.com
 cdn.taboola.com
+centro.net
 cheetahmail.com
+citrusad.net
 clicktrack.pubmatic.com
 cm.g.doubleclick.net
 cm.quantserve.com
@@ -149,6 +162,7 @@ dstillery.com
 ebayadvertising.com
 emjcd.com
 epsilon.com
+epsilonpersonalizedmedia.com
 ero-advertising.com
 eulerian.net
 eus.rubiconproject.com
@@ -163,8 +177,12 @@ factual.com
 fastlane.rubiconproject.com
 fireworkadservices.com
 fireworks-advertising.com
+flashtalking.com
+flashtalkingads.com
 fls-na.amazon.com
+fls.doubleclick.net
 foursquare.com
+gems.yahoo.com
 global.adsrvr.org
 go.pardot.com
 googleadservices.com
@@ -184,17 +202,25 @@ image6.pubmatic.com
 imrworldwide.com
 indexww.com
 infobase.com
+innovid.com
+jana.com
 js.adsrvr.org
+kargo.com
+kevel.co
+kevel.com
 krxd.net
 lijit.com
+liveintent.com
 liveramp.com
 liveramp.net
 log.byteoversea.com
 log.pinterest.com
 lotame.com
 mads.amazon.com
+madvertise.de
 match.adsrvr.org
 mathtag.com
+media.teads.tv
 mfadsrvr.com
 ml314.com
 moat.com
@@ -220,6 +246,7 @@ outbrain.com
 ow.pubmatic.com
 pagead2.googlesyndication.com
 pardot.com
+perion.com
 pixel.adsafeprotected.com
 pixel.advertising.com
 pixel.facebook.com
@@ -228,6 +255,7 @@ pixel.rlcdn.com
 pixel.rubiconproject.com
 pixel.taboola.com
 placed.com
+promoteiq.com
 pronetadvertising.com
 pub.doubleverify.com
 pubmatic.com
@@ -236,7 +264,9 @@ qsearch.quora.com
 quantcount.com
 quantserve.com
 rcadserver.com
+recipient.link
 rlcdn.com
+rollworks.com
 rtax.criteo.com
 rubiconproject.com
 s.adroll.com
@@ -249,11 +279,15 @@ sc.omtrdc.net
 scorecardresearch.com
 seadform.net
 servedbyopenx.com
+serving-sys.com
 share.dmxleo.com
 sharethis.com
+sharethrough.com
 showads.pubmatic.com
+sizmek.com
 skyhookwireless.com
 smartadserver.com
+smartly.io
 snap.licdn.com
 sovrn.com
 sphereup.com
@@ -262,8 +296,10 @@ spotxchange.com
 sshowads.pubmatic.com
 sslwidget.criteo.com
 st.pubmatic.com
+stackadapt.com
 static.ads-twitter.com
 static.criteo.net
+static.sharethrough.com
 statics.teams.cdn.office.net
 staticxx.facebook.com
 storefront.criteo.com
@@ -272,24 +308,33 @@ strack.pubmatic.com
 sync.adsrvr.org
 t.co
 t.pubmatic.com
+t.teads.tv
 taboola.com
 tagcommander.com
 tapad.com
 tapd.io
+teads.tv
 thirdparty.bnc.lt
 tlvmedia.com
 tpc.googlesyndication.com
 tr.snapchat.com
 track.adform.net
+track.innovid.com
 track.pubmatic.com
+track.stackadapt.com
 trafficjunky.net
 trc.taboola.com
 triplelift.com
 trk.pinterest.com
+udc.yahoo.com
 undertone.com
 v1adserver.com
 veraset.com
+verizonmedia.com
+verve.com
+viantinc.com
 vid.pubmatic.com
+vindico.com
 voicefive.com
 webtrekk.net
 widgets.outbrain.com
@@ -297,8 +342,10 @@ wizaly.com
 wt-eu02.net
 www.facebook.com
 xandr.com
+yahoo.com
 yesadvertising.com
 yieldmanager.net
+yieldmo.com
 zeotap.com
 ||acxiom-online.com^$third-party
 ||ade.googlesyndication.com^

@@ -282,3 +282,93 @@ placed.com
 near.co
 factual.com
 cuebiq.com
+
+# --- AdRoll / RollWorks ---
+adroll.com
+d.adroll.com
+s.adroll.com
+rollworks.com
+
+# --- Yieldmo ---
+yieldmo.com
+ad.yieldmo.com
+
+# --- Sharethrough ---
+sharethrough.com
+static.sharethrough.com
+
+# --- Smartly.io ---
+smartly.io
+ads.smartly.io
+
+# --- Basis / Centro ---
+basistech.com
+centro.net
+biddr.co
+
+# --- Verizon / Yahoo DSP (Oath remnants) ---
+yahoo.com
+verizonmedia.com
+beap.gemini.yahoo.com
+ads.yahoo.com
+udc.yahoo.com
+gems.yahoo.com
+
+# --- Sizmek (Amazon DSP measurement) ---
+sizmek.com
+bs.serving-sys.com
+serving-sys.com
+
+# --- Flashtalking ---
+flashtalkingads.com
+flashtalking.com
+
+# --- Innovid (CTV measurement) ---
+innovid.com
+track.innovid.com
+
+# --- StackAdapt ---
+stackadapt.com
+track.stackadapt.com
+
+# --- Basis DSP ---
+bidswitch.net
+bidswitch.com
+
+# --- Kargo ---
+kargo.com
+ads.kargo.com
+
+# --- Undertone / Perion ---
+undertone.com
+perion.com
+
+# --- Teads ---
+teads.tv
+media.teads.tv
+t.teads.tv
+
+# --- Viant / Vindico ---
+viantinc.com
+vindico.com
+adap.tv
+
+# --- Conversant / Epsilon (additional) ---
+fls.doubleclick.net
+epsilonpersonalizedmedia.com
+
+# --- LiveIntent ---
+liveintent.com
+recipient.link
+
+# --- Retail media (behavioral purchase data) ---
+citrusad.net
+criteo.com
+promoteiq.com
+kevel.com
+kevel.co
+
+# --- Verve / Jana ---
+verve.com
+madvertise.de
+jana.com
