@@ -1,6 +1,6 @@
 # Behavioral Profiling & Identity Graph Blocklist
-# Updated: 2026-09-02 20:25 UTC
-# Domains: 403
+# Updated: 2026-09-03 02:38 UTC
+# Domains: 402
 
 2o7.net
 aax.amazon-adsystem.com
@@ -347,7 +347,6 @@ yesadvertising.com
 yieldmanager.net
 yieldmo.com
 zeotap.com
-||acxiom-online.com^$third-party
 ||ade.googlesyndication.com^
 ||adsrvr.org^$third-party
 ||am-match.taboola.com^
