@@ -1,6 +1,6 @@
 # Behavioral Profiling & Identity Graph Blocklist
-# Updated: 2026-09-11 15:44 UTC
-# Domains: 402
+# Updated: 2026-09-11 20:21 UTC
+# Domains: 403
 
 2o7.net
 aax.amazon-adsystem.com
@@ -291,6 +291,7 @@ smartly.io
 snap.licdn.com
 sovrn.com
 sphereup.com
+spl.zeotap.com
 spotx.tv
 spotxchange.com
 sshowads.pubmatic.com
