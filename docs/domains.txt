@@ -1,6 +1,6 @@
 # Behavioral Profiling & Identity Graph Blocklist
-# Updated: 2026-10-16 02:50 UTC
-# Domains: 403
+# Updated: 2026-10-16 10:32 UTC
+# Domains: 404
 
 2o7.net
 aax.amazon-adsystem.com
@@ -254,6 +254,7 @@ pixel.mathtag.com
 pixel.rlcdn.com
 pixel.rubiconproject.com
 pixel.taboola.com
+pixel.tapad.com
 placed.com
 promoteiq.com
 pronetadvertising.com
