@@ -1,6 +1,6 @@
 # Behavioral Profiling & Identity Graph Blocklist
-# Updated: 2026-10-23 10:54 UTC
-# Domains: 404
+# Updated: 2026-10-23 16:19 UTC
+# Domains: 403
 
 2o7.net
 aax.amazon-adsystem.com
@@ -34,7 +34,6 @@ ads.yahoo.com
 adsafeprotected.com
 adserv.snigelweb.com
 adserve.ams.rhythmxchange.com
-adserve.gkeurope.de
 adserve.io
 adserve.jbs.org
 adserver.71i.de
