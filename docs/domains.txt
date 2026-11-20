@@ -1,5 +1,5 @@
 # Behavioral Profiling & Identity Graph Blocklist
-# Updated: 2026-11-19 15:06 UTC
+# Updated: 2026-11-20 00:12 UTC
 # Domains: 402
 
 2o7.net
