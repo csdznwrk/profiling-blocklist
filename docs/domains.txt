@@ -1,6 +1,6 @@
 # Behavioral Profiling & Identity Graph Blocklist
-# Updated: 2026-11-20 00:12 UTC
-# Domains: 402
+# Updated: 2026-11-20 14:47 UTC
+# Domains: 401
 
 2o7.net
 aax.amazon-adsystem.com
@@ -70,7 +70,6 @@ adserver.oddschecker.com
 adserver.omroepzeeland.nl
 adserver.pampa.com.br
 adserver.piksel.mk
-adserver.pl
 adserver.portugalmail.net
 adserver.pressboard.ca
 adserver.sanomawsoy.fi
